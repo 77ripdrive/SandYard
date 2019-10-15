@@ -1,3 +1,5 @@
+package models;
+
 public class Phone {
 
     private String name;
